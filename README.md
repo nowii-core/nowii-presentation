@@ -26,7 +26,7 @@ With no build system required for basic development, nowii provides a simple sta
 ---
 
 ## Preview
-
+![nowii graphic1.png ](graphic1.png)
 **Live Demo:** [https://nowii-core.github.io/nowii-presentation/](https://nowii-core.github.io/nowii-presentation/)
 
 ---
