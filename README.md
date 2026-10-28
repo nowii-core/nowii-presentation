@@ -130,4 +130,8 @@ If you intend to distribute nowii as an open-source project, add a `LICENSE` fil
 - **Repository:** [https://github.com/nowii-core/nowii-presentation](https://github.com/nowii-core/nowii-presentation)
 - **Issues & Feature Requests:** Open an issue in the repository once configured.
 
-*Developed by nowii-core.*
+---
+
+<div align="center">
+  <sub>Developed by <b>nowii-core</b></sub>
+</div>
